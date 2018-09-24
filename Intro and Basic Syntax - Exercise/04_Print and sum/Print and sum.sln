@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Print and sum", "Print and sum\Print and sum.csproj", "{62969FF7-57D0-4FE1-92D4-98C520F39812}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62969FF7-57D0-4FE1-92D4-98C520F39812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62969FF7-57D0-4FE1-92D4-98C520F39812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62969FF7-57D0-4FE1-92D4-98C520F39812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62969FF7-57D0-4FE1-92D4-98C520F39812}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69B14F86-6FF9-42E8-9C02-91068E500C45}
+	EndGlobalSection
+EndGlobal
