@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenAndOddSubstraction", "EvenAndOddSubstraction\EvenAndOddSubstraction.csproj", "{8EE139A5-56D6-4BE1-9FF5-E05F6B8D2587}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EE139A5-56D6-4BE1-9FF5-E05F6B8D2587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE139A5-56D6-4BE1-9FF5-E05F6B8D2587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE139A5-56D6-4BE1-9FF5-E05F6B8D2587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE139A5-56D6-4BE1-9FF5-E05F6B8D2587}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB9063E9-1E98-4CEA-9068-2AE164E7EBA1}
+	EndGlobalSection
+EndGlobal
