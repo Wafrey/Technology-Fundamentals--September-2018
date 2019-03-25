@@ -2,7 +2,7 @@
 
 [![Software University Logo](https://goo.gl/KYm0Tz)](https://softuni.bg)
 
-# Technology Fundamentals
+# Technology Fundamentals - (From 21 Sept. to 20 Dec. 2018)
 
 1. [BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS](http://tinyurl.com/y5encx5m)
 2. DATA TYPES AND VARIABLES
