@@ -4,7 +4,7 @@
 
 # Technology Fundamentals
 
-1. [BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS](http://tinyurl.com/yypo8z9s)
+1. [BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS](http://tinyurl.com/y5encx5m)
 2. DATA TYPES AND VARIABLES
 3. [ARRAYS](https://tinyurl.com/y6nys24h)
 4. METHODS / FUNCTIONS
