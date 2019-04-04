@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03-ExactSumOfRealNumbers", "P03-ExactSumOfRealNumbers\P03-ExactSumOfRealNumbers.csproj", "{7344775B-D121-4253-9A61-0D2C88B8295E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7344775B-D121-4253-9A61-0D2C88B8295E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7344775B-D121-4253-9A61-0D2C88B8295E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7344775B-D121-4253-9A61-0D2C88B8295E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7344775B-D121-4253-9A61-0D2C88B8295E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F28C4901-98DD-4D36-86A3-63280097A581}
+	EndGlobalSection
+EndGlobal
