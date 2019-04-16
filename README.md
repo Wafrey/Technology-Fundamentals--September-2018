@@ -5,7 +5,7 @@
 # Technology Fundamentals - (From 21 Sept. to 20 Dec. 2018)
 
 1. [BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS](http://tinyurl.com/y5encx5m)
-2. DATA TYPES AND VARIABLES
+2. [DATA TYPES AND VARIABLES](http://tinyurl.com/y47zp9vj)
 3. [ARRAYS](https://tinyurl.com/y6nys24h)
 4. METHODS / FUNCTIONS
 5. LISTS / ARRAYS ADVANCED
