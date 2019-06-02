@@ -9,7 +9,7 @@
 3. [ARRAYS](https://tinyurl.com/y6nys24h)
 4. [METHODS / FUNCTIONS](https://tinyurl.com/y2aevh52)
 5. [LISTS / ARRAYS ADVANCED](https://tinyurl.com/y2d2jovm)
-6. [ASSOCIATIVE ARRAYS]
+6. [ASSOCIATIVE ARRAYS](https://tinyurl.com/y6rf5e6x)
 7. OBJECTS AND CLASSES
 8. DATABASE BASICS
 9. STRING AND TEXT PROCESSING
