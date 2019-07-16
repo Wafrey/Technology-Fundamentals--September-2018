@@ -12,7 +12,7 @@
 6. [ASSOCIATIVE ARRAYS](https://tinyurl.com/y6rf5e6x)
 7. [OBJECTS AND CLASSES](https://tinyurl.com/y5v4jnj4)
 8. DATABASE BASICS
-9. STRING AND TEXT PROCESSING(https://tinyurl.com/y3jrx8u2)
+9. [STRING AND TEXT PROCESSING](https://tinyurl.com/y3jrx8u2)
 10. REGULAR EXPRESSIONS
 11. BASIC WEB
 12. BASIC CRUD.
