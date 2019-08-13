@@ -13,7 +13,7 @@
 7. [OBJECTS AND CLASSES](https://tinyurl.com/y5v4jnj4)
 8. DATABASE BASICS
 9. [STRING AND TEXT PROCESSING](https://tinyurl.com/y3jrx8u2)
-10. REGULAR EXPRESSIONS
+10. [REGULAR EXPRESSIONS](https://tinyurl.com/yy382qgy)
 11. BASIC WEB
 12. BASIC CRUD.
 
